@@ -1,11 +1,4 @@
-.box{
-  margin-right:30%;
-}
-
 #message{
-  margin-right: 50%;
-  margin-top: 10%;
-  position: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
